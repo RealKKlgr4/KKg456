@@ -1,12 +1,26 @@
-# KKg456
-R.I.P RAT Builder
-# IMPORTANT
+# 🪦 KKg456  
+**R.I.P RAT Builder**
 
-1: For Windows, Go to the Release and Download the Zip File
+---
 
-2: Extract the Zip and Run the Pyinstaller.bat
+## ⚠️ IMPORTANT SETUP INSTRUCTIONS
 
-3: then run Dependencies.bat for all the needed packages to run it.
-4: Open your Command Prompt and type: cd "copy the path of the folder where fake Rat.zip is located"
+Follow these steps to run the **FAKE RAT Builder** correctly on Windows:
 
-5: after youve done so, Type: "python fake Rat.py" (without the quotation marks)
+### 1. Download the Release
+- Go to the **[Releases](https://github.com/YOUR_USERNAME/YOUR_REPO/releases)** section.
+- Download the latest `.zip` file.
+
+### 2. Extract the ZIP File
+- Right-click the downloaded `.zip` file and select **"Extract All..."**.
+
+### 3. Run the Installer Scripts
+- Double-click `Pyinstaller.bat` to install PyInstaller.
+- Then run `Dependencies.bat` to install all required Python packages.
+
+### 4. Open Command Prompt
+- Press `Win + R`, type `cmd`, and hit Enter.
+
+### 5. Navigate to the Project Directory
+```bash
+cd "C:\Path\To\Extracted\Folder"
